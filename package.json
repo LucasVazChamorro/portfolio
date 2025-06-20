@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-lucas",
+  "version": "1.0.0",
+  "description": "Portfólio pessoal de Lucas Chamorro",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Nenhum servidor configurado. Use um serviço como Live Server ou Vercel.'"
+  },
+  "author": "Lucas Chamorro",
+  "license": "MIT"
+}
